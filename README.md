@@ -53,7 +53,7 @@ pa
 
 ✅ Gestion des erreurs
 Le programme affiche Error si :
--Non-entiers
--Valeurs hors int
--Doublons
--Aucun argument
+- Non-entiers
+- Valeurs hors int
+- Doublons
+- Aucun argument
