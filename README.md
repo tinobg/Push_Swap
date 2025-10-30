@@ -37,3 +37,23 @@ On dispose de :
 ```sh
 make
 ./push_swap 2 1 3 6 5 8
+```
+
+Exemple de sortie:
+```sh
+sa
+pb
+pb
+pb
+sa
+pa
+pa
+pa
+```
+
+✅ Gestion des erreurs
+Le programme affiche Error si :
+-Non-entiers
+-Valeurs hors int
+-Doublons
+-Aucun argument
